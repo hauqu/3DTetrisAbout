@@ -2,7 +2,7 @@
 ## 声明：本页面仅供本毕业设计3D-Tetris游戏使用
 ## 游戏按键设置
 方块移动 W ，S ，A， D<br>
-方块旋转
+方块旋转<br>
 left Shift A->D<br> 
 Space W->S <br>
 left Alt S->D<br>

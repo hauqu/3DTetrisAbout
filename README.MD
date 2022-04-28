@@ -1,4 +1,4 @@
-# This is information of 3D-Tetris
+#  3D-Tetris 游戏帮助
 ## 声明：本页面仅供本毕业设计3D-Tetris游戏使用
 ## 游戏按键设置
 方块移动 W ，S ，A， D<br>
